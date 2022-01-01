@@ -10,4 +10,4 @@ textpattern/
 HISTORY.txt
 README.txt
 .env*
-node_modules/.cache/
+node_modules/.cache/*
